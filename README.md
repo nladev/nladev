@@ -1,4 +1,4 @@
-<h2> မင်္ဂလာပါ(Mingalarpar)🙏🏻, I'm Nay Lin Aung! <img src="https://media.giphy.com/media/ggE11v3GchM6SYge5p/giphy.gif" width="100"></h2>
+<h2> မင်္ဂလာပါ(Mingalarpar)🙏🏻, I'm Nay Lin Aung! </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Backend Developer at <a href="http://www.cleartax.in"><img src="https://www.ewhalemyanmar.com/public/web/img/core-img/ewhale-logo.png" width="80"></a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -42,10 +42,10 @@ const anmol = {
 **I'm an early 🐤** 
 
 ```text
-🌞 Morning    113 commits    ████████░░░░░░░░░░░░░░░░░   32.01% 
+🌞 Morning    113 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.63%
 🌆 Daytime    86 commits     ██████░░░░░░░░░░░░░░░░░░░   24.36% 
 🌃 Evening    120 commits    ████████░░░░░░░░░░░░░░░░░   33.99% 
-🌙 Night      34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.63%
+🌙 Night      34 commits     ████████░░░░░░░░░░░░░░░░░   32.01% 
 
 ```
 

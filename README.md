@@ -37,6 +37,10 @@ const cracki = {
 };
 ```
 
+### Interesting stats
+
+![Nay Lin Aung's stats](https://github-readme-stats.vercel.app/api?username=crackiguy&show_icons=true)
+
 ### My Tech Stack
 
 ![Laravel](http://img.shields.io/badge/-Laravel-FF5733?style=flat&logo=laravel&logoColor=ffffff)

@@ -6,7 +6,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/CrackiGuy?label=Follow&style=social)
 
-### <img src="https://media.giphy.com/media/ycf6fuYdsvGt7AxKxm/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/SAOe8gWe93k26DdyGe/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const cracki = {

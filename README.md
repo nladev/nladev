@@ -51,9 +51,9 @@ const cracki = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vue](http://img.shields.io/badge/-Vue-3BDA94?style=flat&logo=vue.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react)
-![Scss](https://img.shields.io/badge/-Scss-%23CC6699?style=flat&logo=scss&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe XD](http://img.shields.io/badge/-Abode%20XD-26C9FF?style=flat&logo=adobe-xd&logoColor=ffffff)
+![Adobe XD](http://img.shields.io/badge/-Abode%20XD-CE31DB?style=flat&logo=adobe-xd&logoColor=ffffff)
 
 #### Backend
 ![Laravel](http://img.shields.io/badge/-Laravel-FF5733?style=flat&logo=laravel&logoColor=ffffff)
@@ -62,7 +62,7 @@ const cracki = {
 
 
 #### Database
-![Mysql](http://img.shields.io/badge/-mysql-DD0031?style=flat&logo=mysql)
+![Mysql](http://img.shields.io/badge/-mysql-f2f2f2?style=flat&logo=mysql)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-33E530?style=flat&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 

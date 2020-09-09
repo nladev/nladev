@@ -1,6 +1,6 @@
 <h2> မင်္ဂလာပါ(Mingalarpar) 🙏🏻 , I'm Nay Lin Aung! </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Backend Developer at <a href="http://www.cleartax.in"><img src="https://www.ewhalemyanmar.com/public/web/img/core-img/ewhale-logo.png" width="80"></a>
+<p><em>Web Developer at <a href="http://www.cleartax.in"><img src="https://www.ewhalemyanmar.com/public/web/img/core-img/ewhale-logo.png" width="80"></a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 

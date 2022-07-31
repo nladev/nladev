@@ -1,4 +1,4 @@
-<h2> မင်္ဂလာပါ(Mingalarpar) 🙏🏻 , I'm Nay Lin Aung! </h2>
+<h2> Mingalarpar 🙏🏻 , I'm Nay Lin Aung! </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Web Developer at <a href="http://www.cleartax.in"><img src="https://www.ewhalemyanmar.com/public/web/img/core-img/ewhale-logo.png" width="80"></a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -83,6 +83,3 @@ const cracki = {
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu&logoColor=ffffff)
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=ffffff)
-
-![1](https://user-images.githubusercontent.com/507615/86994913-47366580-c1da-11ea-8c1f-1a9b84ad340f.jpg)
-

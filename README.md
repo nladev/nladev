@@ -1,4 +1,4 @@
-<h2> Mingalarpar 🙏🏻 , I'm Nay Lin Aung! </h2>
+<h2> Hi, I'm Nay Lin Aung! </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Web Developer at <a href="http://www.cleartax.in"><img src="https://www.ewhalemyanmar.com/public/web/img/core-img/ewhale-logo.png" width="80"></a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -11,16 +11,15 @@
 ### <img src="https://media.giphy.com/media/SAOe8gWe93k26DdyGe/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const cracki = {
-    title: "Mr",
+const nladev = {
     name: "Nay Lin Aung",
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "PHP", "Java", "C++", "Dart"],
+    code: ["Javascript", "Typescript", "PHP", "Java", "C++","C","Dart"],
     workOn: ["web dev", "app dev", "embedded", "IOT"],
     technologies: {
         mobileApp: ["Android(Java)", "Flutter"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
+            js: ["Vue", "Nuxt", "ES6"],
             css: ["bootstrap", "element-ui", "custom"]
         },
         backEnd: {

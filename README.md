@@ -36,7 +36,7 @@ const nladev = {
 
 ### Interesting stats
 
-![Nay Lin Aung's stats](https://github-readme-stats.vercel.app/api?username=crackiguy&show_icons=true)
+![Nay Lin Aung's stats](https://github-readme-stats.vercel.app/api?username=nladev&show_icons=true)
 
 ### My Tech Stack
 
